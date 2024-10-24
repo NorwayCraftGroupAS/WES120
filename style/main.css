@@ -1,0 +1,19 @@
+/* Generelle føringer for hele nettstedet*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+main{
+
+}
+@media screen and (min-width: 900px){
+    main{
+        max-width: 80%;
+        margin-left: 10%;
+    }
+
+
+}
